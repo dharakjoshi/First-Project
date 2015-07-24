@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+		<title>Result</title>	
+	</head>
+
+	<body>
+	
+		<p>Hello this is my first paragraph writing in HTML.</p>
+		<p>This is the second paragraph.</p>
+		<img src="http://www2.shutterstock.com/webstack/img/lohp/carousel/Vectors/shutterstock_231902518.jpg"/>
+		
+		<table>
+		
+			<thead>
+				<th>Clickable Photo Gallery</th>
+			</thead>
+			
+			<tbody>
+				<tr>
+					<td><a href="http://www.shutterstock.com"><img src="http://www2.shutterstock.com/webstack/img/lohp/carousel/Vectors/shutterstock_41208952.jpg"/></a>
+					</td>
+				</tr>
+				
+				<tr>
+				<td><a href="http://www.shutterstock.com"><img src="http://www2.shutterstock.com/webstack/img/lohp/carousel/Vectors/shutterstock_188478623.jpg"/></a></td>
+				</tr>
+				
+				<tr>
+					<td><a href="http://www.shutterstock.com"><img src="http://www2.shutterstock.com/webstack/img/lohp/carousel/Illustrations/shutterstock_72270985.jpg"/><a/><td/>
+				</tr>
+			</tbody>
+		</table>
+		
+	</body>
+	
+</html>
